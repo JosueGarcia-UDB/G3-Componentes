@@ -1,14 +1,11 @@
-import styles from './page.module.css';
-import Form from './components/Form';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Page from './components/Page';
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <main className="container">
       <div className="App">
-        <div>
-          <p>Aquí heremos nuestra lista de compras</p>
-        </div>
-        <Form />
+        <Page />
       </div>
     </main>
   )
