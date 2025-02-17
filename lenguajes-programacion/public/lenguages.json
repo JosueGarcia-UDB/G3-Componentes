@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JavaScript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png",
+    "description": "Lenguaje de programación popular para el desarrollo web."
+  },
+  {
+    "name": "Python",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+    "description": "Lenguaje versátil utilizado en desarrollo web, ciencia de datos e inteligencia artificial."
+  },
+  {
+    "name": "Java",
+    "image": "https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png",
+    "description": "Lenguaje robusto y ampliamente utilizado en aplicaciones empresariales y móviles."
+  }
+]
